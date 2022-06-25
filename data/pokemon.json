@@ -1,0 +1,92 @@
+[
+    {
+        "name": "bulbasaur",
+        "id": "1",
+        "species": "seed pokemon",
+        "ability": "overgrow",
+        "height": "0.7m",
+        "weight": "6.9kg",
+        "image": "http://localhost:8888/images/bulbasaur.png"
+      },
+      {
+        "name": "ivysaur",
+        "id": "2",
+        "species": "seed pokemon",
+        "ability": "overgrow",
+        "height": "1.0m",
+        "weight": "13.0kg",
+        "image": "http://localhost:8888/images/ivysaur.png"
+      },
+      {
+        "name": "venusaur",
+        "id": "3",
+        "species": "seed pokemon",
+        "ability": "overgrow",
+        "height": "2.0m",
+        "weight": "100kg",
+        "image": "http://localhost:8888/images/venusaur.png"
+      },
+      {
+        "name": "charmander",
+        "id": "4",
+        "species": "lizard pokemon",
+        "ability": "blaze",
+        "height": "0.6m",
+        "weight": "8.5kg",
+        "image": "http://localhost:8888/images/charmander.png"
+      },
+      {
+        "name": "charmeleon",
+        "id": "5",
+        "species": "fire pokemon",
+        "ability": "blaze",
+        "height": "1.1m",
+        "weight": "19.0kg",
+        "image": "http://localhost:8888/images/charmeleon.png"
+      },
+      {
+        "name": "charizard",
+        "id": "6",
+        "species": "flame pokemon",
+        "ability": "blaze",
+        "height": "1.7m",
+        "weight": "90.5kg",
+        "image": "http://localhost:8888/images/charizard.png"
+      },
+      {
+        "name": "squirtle",
+        "id": "7",
+        "species": "tiny turtle pokemon",
+        "ability": "torrent",
+        "height": "0.5m",
+        "weight": "0.9kg",
+        "image": "http://localhost:8888/images/squirtle.png"
+      },
+      {
+        "name": "wartortle",
+        "id": "8",
+        "species": "turtle pokemon",
+        "ability": "torrent",
+        "height": "1.0m",
+        "weight": "22.5kg",
+        "image": "http://localhost:8888/images/wartortle.png"
+      },
+      {
+        "name": "blastoise",
+        "id": "9",
+        "species": "shellfish pokemon",
+        "ability": "torrent",
+        "height": "1.6m",
+        "weight": "85.5kg",
+        "image": "http://localhost:8888/images/blastoise.png"
+      },
+      {
+        "name": "pikachu",
+        "id": "10",
+        "species": "mouse pokemon",
+        "ability": "static",
+        "height": "0.4m",
+        "weight": "6kg",
+        "image": "http://localhost:8888/images/pikachu.png"
+      }
+]
